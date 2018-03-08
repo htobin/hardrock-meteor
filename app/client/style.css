@@ -1,0 +1,23 @@
+.ui.menu.topmenu{
+  background:black;
+  margin:0px;
+}
+
+.ui.menu .item{
+  color:#ccc;
+  font-size:22px;
+}
+.ui.grid.footer{
+  background:#f96d21;
+  padding-top:10px;
+  padding-bottom: 20px;
+}
+
+.ui.grid .row{
+  color:white;
+}
+h3{
+  font-size:25px;
+  font-weight:lighter;
+}
+
